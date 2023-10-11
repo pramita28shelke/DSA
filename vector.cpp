@@ -85,6 +85,7 @@ int main(){
     
     return 0 ;
 }*/
+//rotate the array by k 
 #include<iostream>
 #include<vector>
 using namespace std;
