@@ -45,10 +45,7 @@ int main(){
         cout<<v[i]<<" ";
     }
 cout<<endl;
-// sort01(v);
-//  for(int i=0;i<v.size();i++){
-//         cout<<v[i]<<" ";
-//     }
+
 sortm1(v);
 cout<<"m1"<<endl;
 for(int i=0;i<v.size();i++){
